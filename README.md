@@ -1,23 +1,44 @@
-# TandemLoop Screening Test Solutions (JavaScript)
+# TandemLoop Screening Test Solutions
 
-This repository contains JavaScript solutions to the 4 programming problems for the Full Stack Developer position screening test.
+**Candidate Name:** Nikith S  
+**Position:** Full Stack Developer  
+**Language:** JavaScript (Node.js)
+
+## Implementation Details
+
+All solutions are implemented in modern JavaScript (ES6+) and require Node.js to execute. 
+
+### Prerequisites
+- [Node.js](https://nodejs.org/) (v14.x or higher recommended)
+- npm (comes bundled with Node.js)
 
 ## Solutions
 
-All solutions are implemented in JavaScript (Node.js compatible).
+1. **Problem-1.js**  
+   Calculator implementation with class-based approach supporting:
+   - Addition
+   - Subtraction
+   - Multiplication
+   - Division
 
-1. **Problem-1.js**: Calculator class that performs basic arithmetic operations
-2. **Problem-2.js**: Function to generate a series of numbers 
-3. **Problem-3.js**: Function to generate a series of numbers
-4. **Problem-4.js**: Function to count multiples in a dictionary
+2. **Problem-2.js**  
+   With a single integer as the input, generate the following series of numbers 
 
-## Usage
+3. **Problem-3.js**  
+   With a single integer as the input, generate the following series of numbers 
 
-Each file can be run using Node.js. Example usages are commented in each file.
+4. **Problem-4.js**  
+   Multiples counter with dictionary output
 
 ## How to Run
-1. Make sure Node.js is installed
-2. Run each file using: `node Problem-1.js` (replace with appropriate filename)
 
-## Author
-Nikith
+```bash
+# Clone repository
+git clone https://github.com/yourusername/Nikith-S.git
+cd Nikith-S
+
+# Execute individual problems
+node Problem-1.js
+node Problem-2.js
+node Problem-3.js
+node Problem-4.js
